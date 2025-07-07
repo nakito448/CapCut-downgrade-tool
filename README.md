@@ -6,6 +6,8 @@ esse meu primeiro projeto publicado desculpe qualquer bug
 
 Editor simples em C# para Windows Forms que permite fazer downgrade das versões dos projetos do CapCut, com backup automático e restauração dos estilos de legenda.
 
+![Captura de tela 2025-07-07 174112](https://github.com/user-attachments/assets/91ab4345-0b32-412e-beb0-885af72f3f00)
+
 ## Funcionalidades
 
 - Lista as versões instaladas do CapCut no PC (apenas 3 primeiros números da versão)
