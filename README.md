@@ -1,4 +1,4 @@
-# CapCutVersionEditor
+# CapCut-downgrade-tool
 
 esse meu primeiro projeto publicado desculpe qualquer bug
 
