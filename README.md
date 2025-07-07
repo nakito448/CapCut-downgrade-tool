@@ -17,6 +17,15 @@ Editor simples em C# para Windows Forms que permite fazer downgrade das versões
 3. Clique em “Aplicar Versão” para fazer o downgrade.
 4. Se o estilo da legenda for alterado, clique em “Restaurar Estilos do Backup”.
 
+## Avisos Importantes
+
+- O CapCut altera automaticamente estilos de legenda que não são compatíveis com versões antigas.  
+- Isso significa que, ao fazer downgrade para versões antigas do CapCut, algumas legendas podem perder fontes, cores ou efeitos especiais que só existem em versões mais novas.  
+- O texto da legenda **não é perdido**, apenas o estilo pode ser modificado.  
+- Para minimizar esse problema, este editor cria backups automáticos e permite restaurar os estilos originais depois do downgrade.  
+- Recomendamos usar versões do CapCut próximas à versão original do projeto para evitar perda de estilo.  
+- Se você abrir projetos criados em versões muito recentes do CapCut em versões muito antigas, pode haver perda de qualidade visual nas legendas devido à incompatibilidade.
+
 ## Requisitos
 
 - Windows com .NET Framework instalado
@@ -28,4 +37,4 @@ Contribuições e sugestões são bem-vindas!
 
 ---
 
-**Autor:** Seu Nome
+**Autor:** nakito448
