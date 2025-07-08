@@ -24,7 +24,8 @@ A simple C# editor for Windows Forms that allows you to downgrade the versions o
 - Lists the saved CapCut projects
 - Downgrades the versions to the selected projects
 - Automatically backs up the draft_content.json file before any changes
-- Button to restore caption styles from the backup, avoiding loss of style after downgrading
+- Backups are stored in C:\Users%username%\AppData\Local\CapCut\User Data\Projects\com.lveditor.draft
+
 
 ## How to use
 
