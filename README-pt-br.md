@@ -32,7 +32,7 @@ Editor simples em C# para Windows Forms que permite fazer downgrade das versões
 - Para minimizar esse problema, este editor cria backups automáticos e permite restaurar os estilos originais depois do downgrade.  
 - Recomendamos usar versões do CapCut próximas à versão original do projeto para evitar perda de estilo.  
 - Se você abrir projetos criados em versões muito recentes do CapCut em versões muito antigas, pode haver perda de qualidade visual nas legendas devido à incompatibilidade.
-- exemplo do que acontece com legendas abertas em um cap cut antigo um projeto da do cap cut versão 6.5.0 quando abrido na versao 4.0.0
+- exemplo do que acontece com legendas abertas em um CapCut antigo um projeto da do cap cut versão 6.5.0 quando abrido na versao 4.0.0
 
  ![Captura de tela 2025-07-08 080025](https://github.com/user-attachments/assets/3b2ae8f1-e572-4670-b19f-72b0693cd77a)
 
