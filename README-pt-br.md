@@ -12,6 +12,8 @@ Editor simples em C# para Windows Forms que permite fazer downgrade das versões
 
 - "This project was created by a newer version of CapCut. Update now." (Este projeto foi criado por uma versão mais recente do CapCut. Atualize agora.)
 
+- Com o CapCut-downgrade-tool, você pode forçar a abertura do projeto em versões mais antigas do CapCut, com segurança e com backup automático.
+
 ## Funcionalidades
 
 - Lista as versões instaladas do CapCut no PC (apenas 3 primeiros números da versão)
