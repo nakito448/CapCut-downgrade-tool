@@ -4,7 +4,7 @@ This is the README in en-us.
 
 ##
 
-[português version](README-pt-br)
+[português version](README-pt-br.md)
 
 This is my first published project, sorry for any bugs
 
