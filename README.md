@@ -6,7 +6,8 @@ This is my first published project, sorry for any bugs
 
 A simple C# editor for Windows Forms that allows you to downgrade the versions of CapCut projects, with automatic backup.
 
-![Captura de tela 2025-07-07 174112](https://github.com/user-attachments/assets/91ab4345-0b32-412e-beb0-885af72f3f00)
+![Captura de tela 2025-07-08 075229](https://github.com/user-attachments/assets/5379dc45-d1aa-4cd7-8aa0-7987827f72b5)
+
 
 ## Features
 
