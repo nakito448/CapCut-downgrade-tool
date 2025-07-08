@@ -8,6 +8,9 @@ Editor simples em C# para Windows Forms que permite fazer downgrade das versões
 
 ![Captura de tela 2025-07-07 174112](https://github.com/user-attachments/assets/df2f9ead-1def-4240-8b35-0f55b0da688e)
 
+-⚠️ Este aplicativo foi criado como uma solução para o seguinte problema comum:
+
+- "This project was created by a newer version of CapCut. Update now." (Este projeto foi criado por uma versão mais recente do CapCut. Atualize agora.)
 
 ## Funcionalidades
 
