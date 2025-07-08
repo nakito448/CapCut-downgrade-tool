@@ -1,5 +1,9 @@
 # CapCut-downgrade-tool
 
+This is my first published project, sorry for any bugs
+
+##
+
 A simple C# editor for Windows Forms that allows you to downgrade the versions of CapCut projects, with automatic backup.
 
 ![Captura de tela 2025-07-08 075229](https://github.com/user-attachments/assets/d12d1f1a-dff8-4e3f-ae06-cef117a42422)
