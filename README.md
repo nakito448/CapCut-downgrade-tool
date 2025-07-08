@@ -32,7 +32,7 @@ A simple C# editor for Windows Forms that allows you to downgrade the versions o
 - We recommend using CapCut versions close to the original version of the project to avoid loss of style.
 - If you open projects created in very recent versions of CapCut in very old versions, there may be a loss of visual quality in the subtitles due to incompatibility.
 - example of what happens with open subtitles in an old cap cut a cap cut project version 6.5.0 when opened in version 4.0.0
-- ![Captura de tela 2025-07-08 080025](https://github.com/user-attachments/assets/3b2ae8f1-e572-4670-b19f-72b0693cd77a)
+![Captura de tela 2025-07-08 080025](https://github.com/user-attachments/assets/3b2ae8f1-e572-4670-b19f-72b0693cd77a)
 
 ## Requirements
 
