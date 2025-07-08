@@ -1,5 +1,11 @@
 # CapCut-downgrade-tool
 
+This is the README in en-us.
+
+##
+
+[português version](README-pt-br)
+
 This is my first published project, sorry for any bugs
 
 ##
