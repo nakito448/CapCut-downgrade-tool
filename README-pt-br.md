@@ -1,32 +1,13 @@
 # CapCut-downgrade-tool
 
-A simple C# editor for Windows Forms that allows you to downgrade the versions of CapCut projects, with automatic backup.
-
-![Captura de tela 2025-07-08 075229](https://github.com/user-attachments/assets/d12d1f1a-dff8-4e3f-ae06-cef117a42422)
-
-
-## Features
-
-- Lists the installed versions of CapCut on the PC (only the first 3 numbers of the version)
-- Lists the saved CapCut projects
-- Downgrades the versions to the selected projects
-- Automatically backs up the draft_content.json file before any changes
-- Button to restore caption styles from the backup, avoiding loss of style after downgrading
-
-## How to use
-
-1. Select the desired CapCut version.
-2. Select the project you want to modify.
-3. Click “Apply Version” to downgrade.
-# CapCut-downgrade-tool
-
 esse meu primeiro projeto publicado desculpe qualquer bug
 
 ##
 
 Editor simples em C# para Windows Forms que permite fazer downgrade das versões dos projetos do CapCut, com backup automático.
 
-![Captura de tela 2025-07-07 174112](https://github.com/user-attachments/assets/91ab4345-0b32-412e-beb0-885af72f3f00)
+![Captura de tela 2025-07-07 174112](https://github.com/user-attachments/assets/df2f9ead-1def-4240-8b35-0f55b0da688e)
+
 
 ## Funcionalidades
 
