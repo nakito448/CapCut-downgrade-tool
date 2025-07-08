@@ -12,6 +12,11 @@ A simple C# editor for Windows Forms that allows you to downgrade the versions o
 
 ![Captura de tela 2025-07-08 075229](https://github.com/user-attachments/assets/d12d1f1a-dff8-4e3f-ae06-cef117a42422)
 
+-⚠️ This application was created as a solution to the common problem:
+
+- "This project was created by a newer version of CapCut. Update now"
+
+- With CapCut-downgrade-tool, you can force the project to open in older versions of CapCut, safely and with automatic backup.
 
 ## Features
 
