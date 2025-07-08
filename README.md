@@ -6,8 +6,7 @@ This is my first published project, sorry for any bugs
 
 A simple C# editor for Windows Forms that allows you to downgrade the versions of CapCut projects, with automatic backup.
 
-![Captura de tela 2025-07-08 075229](https://github.com/user-attachments/assets/5379dc45-d1aa-4cd7-8aa0-7987827f72b5)
-
+![Captura de tela 2025-07-07 174112](https://github.com/user-attachments/assets/91ab4345-0b32-412e-beb0-885af72f3f00)
 
 ## Features
 
@@ -32,6 +31,8 @@ A simple C# editor for Windows Forms that allows you to downgrade the versions o
 - To minimize this problem, this editor creates automatic backups and allows you to restore the original styles after downgrading.
 - We recommend using CapCut versions close to the original version of the project to avoid loss of style.
 - If you open projects created in very recent versions of CapCut in very old versions, there may be a loss of visual quality in the subtitles due to incompatibility.
+- example of what happens with open subtitles in an old cap cut a cap cut project version 6.5.0 when opened in version 4.0.0
+- ![Captura de tela 2025-07-08 080025](https://github.com/user-attachments/assets/3b2ae8f1-e572-4670-b19f-72b0693cd77a)
 
 ## Requirements
 
